@@ -39,5 +39,5 @@ This automation framework is made up of the following:
  - - www. .... .com
 
 - Please see our Namely Automation HipChat/Slack chat room:
- -- QA-Automation
+ - - QA-Automation
 
