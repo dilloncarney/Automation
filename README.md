@@ -1,4 +1,4 @@
-Namely Web Test Automation Framework
+Web Test Automation Framework
 ==========
 
 
@@ -31,13 +31,13 @@ This automation framework is made up of the following:
  
  
 ***Misc.***
-- Please see our Namely Automation wiki for additional documentation:
+- Please see our Automation wiki for additional documentation:
  - - www. ... .com
 
 
 - Please create a new QAA ticket for any requests or issues:
  - - www. .... .com
 
-- Please see our Namely Automation HipChat/Slack chat room:
+- Please see our Automation HipChat/Slack chat room:
  - - QA-Automation
 
